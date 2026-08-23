@@ -1,0 +1,21 @@
+.video-title a {
+  text-decoration: none;
+  color: black;
+}
+
+p{
+    font-family: Roboto, Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+    }
+
+  body{
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+    background-color: rgba(10, 4, 4, 0.945);
+  }
+
+  
